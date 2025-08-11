@@ -25,7 +25,6 @@
 ---
 
 ## 📊 GitHub Stats
-![Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elias0512vs&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elias0512vs&layout=compact&theme=radical)  
 
 ---
