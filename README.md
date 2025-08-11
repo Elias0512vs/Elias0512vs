@@ -10,7 +10,7 @@
 
 ## 📫 Contact Me
 - **Email:** tuemail@example.com  
-- **LinkedIn:** [linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil)  
+- **LinkedIn:** [](https://www.linkedin.com/in/elias-navarro-castro/)
 - **Portfolio:** [tusitio.com](https://tusitio.com)  
 
 ---
