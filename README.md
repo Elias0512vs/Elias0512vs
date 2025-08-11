@@ -9,9 +9,9 @@
 ---
 
 ## 📫 Contact Me
-- **Email:** tuemail@example.com  
-- **LinkedIn:** [](https://www.linkedin.com/in/elias-navarro-castro/)
-- **Portfolio:** [tusitio.com](https://tusitio.com)  
+- **Email:**  navarro.elias0512@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/elias-navarro-castro/](https://www.linkedin.com/in/elias-navarro-castro/)
+
 
 ---
 
